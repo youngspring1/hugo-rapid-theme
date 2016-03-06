@@ -2,9 +2,9 @@
 title: ""
 description: ""
 categories:
- - 读书笔记
- - 技术文章
- - 思考感悟
+ - 生活
+ - 读书
+ - 新知
 keywords:
  - xxx
 url: ""
